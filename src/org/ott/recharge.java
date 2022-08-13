@@ -3,7 +3,7 @@ package org.ott;
 public class recharge implements primevideo,hotstar {
 	
   public void offers(){
-	System.out.println("extra month+ hii");
+	System.out.println("extra month + HELLO");
 }
  
 

@@ -11,7 +11,7 @@ public class primevid implements primevideo{
 
 @Override
 public void yearlyplan() {
-	System.out.println("1399");
+	System.out.println("1499");
 }
 	
 	public static void main(String[] args) {
