@@ -12,7 +12,7 @@ public class recharge implements primevideo,hotstar {
 
 @Override
 public void MonthlyPlan() {
-	System.out.println("399");
+	System.out.println("399 +HIII");
 	
 }
 
